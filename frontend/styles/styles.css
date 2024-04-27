@@ -75,7 +75,7 @@ button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  animation: rotate 1s linear forwards infinite;
+  animation: rotate 60s linear forwards infinite;
 }
 
 .squares {
